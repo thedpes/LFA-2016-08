@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LFA_2016_08
 {
-    class Program
+    
     class Program
     {
         static void Main(string[] args)
