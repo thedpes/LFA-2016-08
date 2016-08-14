@@ -10,6 +10,9 @@ namespace LFA_2016_08
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
+            
+            Console.ReadKey();
         }
     }
 }
