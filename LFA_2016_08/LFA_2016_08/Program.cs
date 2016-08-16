@@ -14,7 +14,7 @@ namespace LFA_2016_08
            int n = 0;
             while (n < 3)
             {
-                Console.WriteLine("Please Enter your Username: ");
+                Console.WriteLine("Please type your Username:  ");
                 string userName = Console.ReadLine();
 
                 Console.WriteLine("Please enter your password: ");
